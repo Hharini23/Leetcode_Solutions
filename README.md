@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0481-magical-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0481-magical-string) |
+| [0686-repeated-string-match](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0812-rotate-string) |
 | [0979-di-string-match](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0979-di-string-match) |
 | [1472-increasing-decreasing-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1472-increasing-decreasing-string) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0812-rotate-string) |
 ## Counting
 |  |
