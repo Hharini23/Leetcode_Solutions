@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0432-all-oone-data-structure) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0432-all-oone-data-structure) |
 | [1472-increasing-decreasing-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1472-increasing-decreasing-string) |
 | [2825-minimize-string-length](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2825-minimize-string-length) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
