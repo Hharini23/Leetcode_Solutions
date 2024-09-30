@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0729-my-calendar-i](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0731-my-calendar-ii) |
@@ -133,5 +135,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0941-sort-array-by-parity](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0941-sort-array-by-parity) |
 <!---LeetCode Topics End-->
