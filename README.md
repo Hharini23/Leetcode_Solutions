@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0384-shuffle-an-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0384-shuffle-an-array) |
 | [0729-my-calendar-i](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0731-my-calendar-ii) |
 | [0941-sort-array-by-parity](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0941-sort-array-by-parity) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0384-shuffle-an-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0384-shuffle-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
