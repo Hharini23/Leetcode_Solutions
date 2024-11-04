@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2825-minimize-string-length) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3379-score-of-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3379-score-of-a-string) |
+| [3451-string-compression-iii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3451-string-compression-iii) |
 ## Array
 |  |
 | ------- |
