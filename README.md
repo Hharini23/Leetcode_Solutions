@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0432-all-oone-data-structure](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0432-all-oone-data-structure) |
 | [0525-contiguous-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0525-contiguous-array) |
