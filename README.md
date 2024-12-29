@@ -162,10 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0384-shuffle-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2645-pass-the-pillow](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2645-pass-the-pillow](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Doubly-Linked List
 |  |
