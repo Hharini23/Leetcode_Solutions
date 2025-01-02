@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0384-shuffle-an-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0384-shuffle-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
@@ -260,4 +261,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
