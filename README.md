@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2365-percentage-of-letter-in-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2825-minimize-string-length](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2825-minimize-string-length) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0731-my-calendar-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Math
 |  |
 | ------- |
