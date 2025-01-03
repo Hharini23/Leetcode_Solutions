@@ -1,6 +1,7 @@
-/*class Solution {
+class Solution {
     public int waysToSplitArray(int[] nums) {
-        int left=0,right=0,validsplit=0;
+        long left=0,right=0;
+        int validsplit=0;
         for(int num : nums)
         {
            right+=num;
@@ -15,24 +16,5 @@
            }
         }
         return validsplit;
-    }
-}*/
-class Solution {
-    public int waysToSplitArray(int[] nums) {
-        long leftSum = 0, rightSum = 0;
-        for (int num : nums) {
-            rightSum += num;
-        }
-
-        int validSplits = 0;
-        for (int i = 0; i < nums.length - 1; i++) {
-            leftSum += nums[i];
-            rightSum -= nums[i];
-            if (leftSum >= rightSum) {
-                validSplits++;
-            }
-        }
-
-        return validSplits;
     }
 }
