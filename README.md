@@ -294,17 +294,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
