@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
