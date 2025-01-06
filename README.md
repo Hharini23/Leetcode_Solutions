@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Dynamic Programming
 |  |
@@ -341,4 +343,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
