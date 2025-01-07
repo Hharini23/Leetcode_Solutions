@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0384-shuffle-an-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0384-shuffle-an-array) |
@@ -274,11 +275,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 ## Hash Function
 |  |
