@@ -1,18 +1,18 @@
 class Solution {
     public List<String> stringMatching(String[] words) {
-        List<String>list = new ArrayList<>();
+       Arrays.sort(words,(a,b)->Integer.compare(a.length(),b.length()));
+        List<String> l = new ArrayList<>();
         for(int i=0;i<words.length;i++)
         {
-            for(int j=0;j<words.length;j++)
+            for(int j=i+1;j<words.length;j++)
             {
-                if(i!=j && words[j].contains(words[i]))
-                {
-                    list.add(words[i]);
-                    break;
-
-                }
+              if(words[j].contains(words[i]))
+              {
+                 l.add(words[i]);
+                 break;
+              }
             }
         }
-        return list;
+        return l;
     }
 }
