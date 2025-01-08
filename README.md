@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2825-minimize-string-length](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2825-minimize-string-length) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3379-score-of-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3379-score-of-a-string) |
 | [3451-string-compression-iii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3451-string-compression-iii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting
 |  |
 | ------- |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -357,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
