@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2792-neighboring-bitwise-xor](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2792-neighboring-bitwise-xor](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2792-neighboring-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
