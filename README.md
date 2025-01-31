@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0384-shuffle-an-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0384-shuffle-an-array) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [2232-adding-spaces-to-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2645-pass-the-pillow](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
