@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0792-binary-search) |
+| [0854-making-a-large-island](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 | [0941-sort-array-by-parity](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [0979-di-string-match](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0979-di-string-match) |
 | [1256-rank-transform-of-an-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -305,12 +306,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0854-making-a-large-island](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [0854-making-a-large-island](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0854-making-a-large-island](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 | [0904-leaf-similar-trees](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0854-making-a-large-island](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 ## Hash Function
 |  |
 | ------- |
