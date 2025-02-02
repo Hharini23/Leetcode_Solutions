@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0384-shuffle-an-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0384-shuffle-an-array) |
+| [0396-rotate-function](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0474-ones-and-zeroes](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0525-contiguous-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0525-contiguous-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0384-shuffle-an-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0384-shuffle-an-array) |
+| [0396-rotate-function](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0396-rotate-function) |
 | [1013-fibonacci-number](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0198-house-robber) |
+| [0396-rotate-function](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
