@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1666-make-the-string-great](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1666-make-the-string-great) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2032-largest-odd-number-in-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-increasing-decreasing-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1472-increasing-decreasing-string) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2825-minimize-string-length](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2825-minimize-string-length) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1472-increasing-decreasing-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1472-increasing-decreasing-string) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
