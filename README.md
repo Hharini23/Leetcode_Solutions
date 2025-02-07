@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0481-magical-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0481-magical-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0481-magical-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
