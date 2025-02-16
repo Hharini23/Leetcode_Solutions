@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1532-reformat-the-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1532-reformat-the-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1666-make-the-string-great](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1666-make-the-string-great) |
+| [1873-longest-nice-substring](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1873-longest-nice-substring) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1923-sentence-similarity-iii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-increasing-decreasing-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1472-increasing-decreasing-string) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1873-longest-nice-substring](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1873-longest-nice-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2448-count-number-of-bad-pairs](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0397-integer-replacement) |
+| [1873-longest-nice-substring](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1873-longest-nice-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1873-longest-nice-substring](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1873-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [1873-longest-nice-substring](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1873-longest-nice-substring) |
 ## Merge Sort
 |  |
 | ------- |
