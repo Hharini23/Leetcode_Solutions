@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1923-sentence-similarity-iii) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0216-combination-sum-iii) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Tree
 |  |
 | ------- |
