@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1472-increasing-decreasing-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1472-increasing-decreasing-string) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0731-my-calendar-ii) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0854-making-a-large-island](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 | [0904-leaf-similar-trees](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
@@ -471,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
