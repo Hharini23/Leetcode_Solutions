@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2365-percentage-of-letter-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1873-longest-nice-substring](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1873-longest-nice-substring) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
