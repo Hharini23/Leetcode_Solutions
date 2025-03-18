@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2478-longest-nice-subarray) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2547-odd-string-difference](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2547-odd-string-difference) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1873-longest-nice-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2792-neighboring-bitwise-xor) |
 ## Sorting
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1873-longest-nice-substring](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1873-longest-nice-substring) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Heap (Priority Queue)
