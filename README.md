@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0854-making-a-large-island](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
+| [2793-count-the-number-of-complete-components](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Monotonic Stack
 |  |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2793-count-the-number-of-complete-components](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 | [0884-k-similar-strings](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0884-k-similar-strings) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Hash Function
 |  |
 | ------- |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
