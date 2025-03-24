@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3483-alternating-groups-ii) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3430-count-days-without-meetings](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3430-count-days-without-meetings) |
 ## Queue
 |  |
 | ------- |
