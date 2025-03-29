@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3447-clear-digits) |
 ## Recursion
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2792-neighboring-bitwise-xor](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2154-minimum-moves-to-convert-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Binary Search
 |  |
 | ------- |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2649-count-total-number-of-colored-cells) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Queue
@@ -497,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Combinatorics
 |  |
 | ------- |
@@ -606,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Hharini23/Leetcode_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Graph
 |  |
 | ------- |
