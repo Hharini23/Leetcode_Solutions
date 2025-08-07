@@ -666,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0620-not-boring-movies](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0620-not-boring-movies) |
 | [1670-patients-with-a-condition](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1811-fix-names-in-a-table) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Hharini23/Leetcode_Solutions/tree/master/2127-employees-whose-manager-left-the-company) |
