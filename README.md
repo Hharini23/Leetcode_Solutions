@@ -663,4 +663,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Database
+|  |
+| ------- |
+| [1811-fix-names-in-a-table](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1811-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
