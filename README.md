@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [1873-longest-nice-substring](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1873-longest-nice-substring) |
