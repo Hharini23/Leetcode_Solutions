@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1170-shortest-common-supersequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1472-increasing-decreasing-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1472-increasing-decreasing-string) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
