@@ -1,17 +1,10 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        for(int i : nums)
+        int index=0;
+        for(int i=0;i<nums.length;i++)
         {
-            map.put(i,map.getOrDefault(i,0)+1);
+            index = index^nums[i];
         }
-        for(int i : nums)
-        {
-            if(map.get(i)== 1)
-            {
-                return i;
-            }
-        }
-        return -1;
+        return index;
     }
 }
