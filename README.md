@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0290-word-pattern](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0268-missing-number) |
