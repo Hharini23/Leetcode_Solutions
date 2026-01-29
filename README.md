@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0414-third-maximum-number](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0525-contiguous-array](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0525-contiguous-array) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0941-sort-array-by-parity](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1200-minimum-absolute-difference) |
