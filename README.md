@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0392-is-subsequence) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0432-all-oone-data-structure](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0432-all-oone-data-structure) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hharini23/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-letter-tile-possibilities](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Hharini23/Leetcode_Solutions/tree/master/1364-tuple-with-same-product) |
